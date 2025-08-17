@@ -6,7 +6,7 @@
 
 <br />
 <p align="center">
-  <h3 align="center">Flora Find</h3>
+  <h3 align="center">Flora Findr</h3>
   <p align="center">Plant Image Classifier</p>
   <p align="center">
     <a href="https://github.com/catiaspsilva/README-template/blob/main/images/docs.txt"><strong>Documentaton</strong></a>
